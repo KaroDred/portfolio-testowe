@@ -9,6 +9,7 @@ Nazywam się Karolina Zawieracz. Swoją karierę rozpoczęłam jako pracownik bi
 ## Webinary
 * 09.2022 **Testowanie manualne aplikacji** prowadzący: IFS&WHALES sp. z o.o.
 ## Narzędzia
+* Windows
 * TestLink
 * Postman 
 * Jira
