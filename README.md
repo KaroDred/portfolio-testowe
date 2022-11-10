@@ -21,3 +21,4 @@ Nazywam się Karolina Zawieracz. Swoją karierę rozpoczęłam jako pracownik bi
 ### Raportowanie błędów
 ### Plan testów 
 ### Testy API
+### SQL
